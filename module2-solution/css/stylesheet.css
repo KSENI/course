@@ -50,7 +50,7 @@ h1 {
 	background-color: #F0E68C;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
 	.chicken.container {
 		width: 30%;
 	}
@@ -62,7 +62,7 @@ h1 {
 	}
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 768px) and (max-width: 991px) {
 	.chicken.container {
 		width: 45%;
 	}
